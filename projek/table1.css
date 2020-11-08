@@ -1,0 +1,44 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px auto 0;
+  font-size: 20px;
+  color: #4a788b;
+  border-radius: 10px;
+  }
+  table thead{
+      background-color: #d9f0fc;
+  }
+  table th, table td{
+      text-align: center;
+    border: 1px solid #6fcfff;
+    padding: 5px 10px;
+  }
+  /*mobile*/
+  @media screen and (max-width: 640px){
+      .smart-table thead{
+          display: none;
+      }
+      .smart-table tr,
+      .smart-table td{
+          text-align: center;
+          display: block;
+      }
+      .smart-table tr:not(:last-child){
+          border-bottom: 5px solid #5ca0c3;
+      }
+      
+     
+    /*desktop*/
+    @media (min-width: 1024px){
+        th{
+            text-align: center;
+        }
+    }
+    table{
+        width: 80%;
+    }
+
+      
+  }
+  

@@ -1,0 +1,31 @@
+[
+    {
+        "id":"1",
+        "nama" : "Juna Rorimpandey",
+        "asal" : "Paris",
+        "keahlian" : "Pizza",
+        "foto" : "1A.jpg"
+    },
+    {
+        "id": "2",
+        "nama" : "Arnold Poernomo",
+        "asal" : "Manchester",
+        "keahlian" : "Snacks",
+        "foto" : "1C.jpg"
+    },
+    {
+        "id": "3",
+        "nama": "Renatta Moeloek",
+        "asal" : "Madrid",
+        "keahlian" : "Dessert",
+        "foto" : "1B.jpg"
+    },
+    {
+        "id": "4",
+        "nama": "Reynold Poernomo",
+        "asal" : "Australia",
+        "keahlian" : "Beaverages",
+        "foto" : "1D.jpg"
+    }
+    
+]
